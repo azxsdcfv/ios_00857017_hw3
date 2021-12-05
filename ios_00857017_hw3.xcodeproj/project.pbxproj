@@ -11,6 +11,8 @@
 		43778AAD2751DBFD0046C682 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43778AAC2751DBFD0046C682 /* ContentView.swift */; };
 		43778AAF2751DC070046C682 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43778AAE2751DC070046C682 /* Assets.xcassets */; };
 		43778AB22751DC070046C682 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43778AB12751DC070046C682 /* Preview Assets.xcassets */; };
+		43778AC6275248D60046C682 /* think.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43778AC5275248D60046C682 /* think.swift */; };
+		43778ACF275276E10046C682 /* test.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43778ACE275276E10046C682 /* test.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		43778AAE2751DC070046C682 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		43778AB12751DC070046C682 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		43778AB32751DC070046C682 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		43778AC5275248D60046C682 /* think.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = think.swift; sourceTree = "<group>"; };
+		43778ACE275276E10046C682 /* test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				43778AAA2751DBFD0046C682 /* ios_00857017_hw3App.swift */,
 				43778AAC2751DBFD0046C682 /* ContentView.swift */,
+				43778AC5275248D60046C682 /* think.swift */,
+				43778ACE275276E10046C682 /* test.swift */,
 				43778AAE2751DC070046C682 /* Assets.xcassets */,
 				43778AB32751DC070046C682 /* Info.plist */,
 				43778AB02751DC070046C682 /* Preview Content */,
@@ -139,7 +145,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				43778AAD2751DBFD0046C682 /* ContentView.swift in Sources */,
+				43778ACF275276E10046C682 /* test.swift in Sources */,
 				43778AAB2751DBFD0046C682 /* ios_00857017_hw3App.swift in Sources */,
+				43778AC6275248D60046C682 /* think.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
